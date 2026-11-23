@@ -1,0 +1,12 @@
+{
+  "name": "coco-de-guide",
+  "version": "1.0.0",
+  "description": "dbt data engineering workflow for the TPC-H CoCo guide project",
+  "author": {
+    "name": "Jagadeesh Sellappan",
+    "email": "jagadeeshkumar.s@birlasoft.com"
+  },
+  "skills": ["./skills"],
+  "agents": ["./agents"],
+  "hooks": "./hooks/hooks.json"
+}
